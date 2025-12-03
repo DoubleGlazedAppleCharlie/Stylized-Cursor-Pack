@@ -1,1 +1,3 @@
 To change your cursor: go to settings, look up mouse setting, and click additional mouse settings. then, click pointer, and click on the cursor you want to change. click open (or double click the cursor twice) to open it. then click the down arrow at the top of the screen. click downloads, and then the zip file (also you have to uncompress it for this to work.) click on the matching cursor as the one you opened, and then it should be good. click apply for it to take affect. do this for all the cursors, and you should be set.
+
+(on mac, download mousecape. the mac version should be called Mousepack (mousecape) mousecape is an easy to use mac cursor changer.)
